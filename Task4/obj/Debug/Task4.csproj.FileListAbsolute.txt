@@ -1,0 +1,14 @@
+C:\Users\Vladislav Safarov\Desktop\EPAM Tasks\Task4\bin\Debug\Task4.exe.config
+C:\Users\Vladislav Safarov\Desktop\EPAM Tasks\Task4\bin\Debug\Task4.exe
+C:\Users\Vladislav Safarov\Desktop\EPAM Tasks\Task4\bin\Debug\Task4.pdb
+C:\Users\Vladislav Safarov\Desktop\EPAM Tasks\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Vladislav Safarov\Desktop\EPAM Tasks\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Safarov\Desktop\EPAM Tasks\Task4\obj\Debug\Task4.exe
+C:\Users\Vladislav Safarov\Desktop\EPAM Tasks\Task4\obj\Debug\Task4.pdb
+C:\Users\Vladislav Safarov\Desktop\Tasks\Task4\bin\Debug\Task4.exe.config
+C:\Users\Vladislav Safarov\Desktop\Tasks\Task4\bin\Debug\Task4.exe
+C:\Users\Vladislav Safarov\Desktop\Tasks\Task4\bin\Debug\Task4.pdb
+C:\Users\Vladislav Safarov\Desktop\Tasks\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\Vladislav Safarov\Desktop\Tasks\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Safarov\Desktop\Tasks\Task4\obj\Debug\Task4.exe
+C:\Users\Vladislav Safarov\Desktop\Tasks\Task4\obj\Debug\Task4.pdb
